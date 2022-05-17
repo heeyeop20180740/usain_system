@@ -7,6 +7,7 @@ select_course() {
 regist_course() {
 선택한 강좌를 수강신청 요청을 하고 승인시 등록하는 함수
 수정1
+수정2
 }
 check_course() {
 수강이 가능한지 확인하는 함수(대상외 수강 제한 확인)
